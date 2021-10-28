@@ -1,0 +1,17 @@
+Мій перший репозиторій
+echo "# LR_1" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/GavrilenkoBogdan/LR_1.git
+=======
+Мій перший репозиторій
+echo "# LR_1" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/GavrilenkoBogdan/LR_1.git
+>>>>>>> 3d04dfacbddf058bb87e87fdf68f3563e7abf05c
+git push -u origin main
